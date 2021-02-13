@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Alata";
+    src: url(Alata-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Quicksand";
+    src: url(Quicksand-VariableFont_wght.ttf)
+}
+
+div {
+    border: double;
+    border-color: black;
+}
+
+h1 {
+    font-family: Alata;
+    color: white;
+    font-size: 40px;
+}
+
+body {
+    font-family: Quicksand;
+    font-size: 30px;
+    background-color: #afb0ff;
+    color: #504f00;
+}
+
+a {
+    color: black;
+}
+
+.letoltes {
+    position: absolute;
+    right: 30px;
+}
+
+audio {
+    width: 600px;
+}
